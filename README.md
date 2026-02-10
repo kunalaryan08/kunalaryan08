@@ -11,11 +11,10 @@
 
 ## 🧠 About Me
 
-- 🎓 **3rd Year B.Tech CSE Student** (AKTU)
-- 🧩 Solved **650+ DSA problems** across platforms  
+- 🎓 **Final Year B.Tech CSE Student** (AKTU)
+- 🧩 Solved **950+ DSA problems** across platforms  
 - 💻 Strong in **C++, Java, Python**
 - 🌱 Currently learning **React & Machine Learning**
-- 🎯 Goal: **Crack top product-based companies (40+ LPA)**
 - 🏗️ Building projects to create a **strong public portfolio**
 - 🧠 Strengths: Problem Solving, Communication, Analytical Thinking
 
