@@ -2,8 +2,9 @@
 <h3 align="center">B.Tech CSE | Problem Solver | Future Top-Tier Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=650%2B+DSA+Problems+Solved;Competitive+Programmer;React+%7C+ML+Learner;Building+Projects+%26+Skills;Aiming+40%2B+LPA+Roles&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Problem+Solver+%26+Competitive+Programmer;React+%7C+Machine+Learning+Learner;Building+Scalable+Projects;Aiming+Top+Product-Based+Companies&center=true&width=700&height=45">
 </p>
+
 
 ---
 
