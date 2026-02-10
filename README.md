@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Aryan</h1>
-<h3 align="center">B.Tech CSE | Problem Solver | Future Top-Tier Software Engineer</h3>
+<h3 align="center">B.Tech CSE | Problem Solver | Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Strong+in+Data+Structures+%26+Algorithms;Full-Stack+%7C+React+Learner;Focused+on+High-Impact+Engineering+Roles&center=true&width=700&height=45">
